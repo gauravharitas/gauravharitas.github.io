@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @gauravharitas
-- 👀 I’m interested in Technology
-- 🌱 I’m currently learning in depth knowledge of Machine Learning
-- 💞️ I’m looking to collaborate on MNC's for betterment
-- 📫 My instagram :- @gaurav_haritas
+# Responsive Portfolio Website Mrinmoy
 
-<!---
-gauravharitas/gauravharitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- Responsive Personal Portfolio Website Using HTML CSS & JavaScript
+- Smooth scrolling in each section.
+- Includes a light and dark mode.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+-  Thank You for visiting😀
+
+
+
